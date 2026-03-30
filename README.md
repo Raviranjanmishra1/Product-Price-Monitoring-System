@@ -1,4 +1,3 @@
-# Product-Price-Monitoring-System
 # Product Price Monitor
 
 A full-stack system that collects product listings from Grailed, Fashionphile, and 1stdibs, tracks price changes over time, and notifies interested parties via webhooks.
@@ -324,4 +323,3 @@ For reviewers: commits were made incrementally in this order:
 12. `frontend: dashboard, product list, product detail with Chart.js`
 13. `tests: conftest fixtures + 14 tests`
 14. `docs: README`
-
